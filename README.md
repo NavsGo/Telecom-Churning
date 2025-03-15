@@ -32,5 +32,5 @@ The telecom companies in south asia and Indian markets have a huge customer base
 1. data dict.csv
 2. sample file for submission
 3. Refer to #https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c-69/overview - for more details of problem statement for
-  -   train.csv( 3month customer data, containing customer churn/not churned status in 4th month- refe
+  -   train.csv( 3month customer data, containing customer churn/not churned status in 4th month)
   -   test.csv(the customers for which churning proabability is to be predicted)
