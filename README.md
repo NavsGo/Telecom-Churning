@@ -19,13 +19,7 @@ The telecom companies in south asia and Indian markets have a huge customer base
 5. Modelling
 6. Model Evaluation
 7. Summary
-1. Reading and understanding Data
-2. Data Cleaning
-3. EDA
-4. Data pre-processing for Modeling
-5. Modelling
-6. Model Evaluation
-7. Summary
+
 
 ### Data files
 
