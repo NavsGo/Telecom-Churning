@@ -10,7 +10,7 @@ In telecom industry, acquiring a new customer is 5-10 times more expensive than 
 - The main purpose of this case study is to analyse at 3 months data(usage of various service of company like local, std, isd incoming outgoing calls, 2g and 3g network etc) and predict if the user shows at change in pattern indicating risk of him being churned. 
 - The other objective of the case study is to identify the features in data  which have the major impact on the customer's churn probability. That will help the company to use their resource accordingly, in overall improvement in infra, to offer discounted services to high risk customers etc.
 
-### Approach
+### Approach:
 
 1. Reading and Understanding  Data
 2. Data Cleaning
@@ -22,7 +22,7 @@ In telecom industry, acquiring a new customer is 5-10 times more expensive than 
 8. Inference Model
 9. Summary
 
-## Data Definitions
+## Data Definitions:
 
 The definitions are also listed down below:
 - CIRCLE_ID : Telecom circle area to which the customer belongs to
@@ -62,8 +62,8 @@ The definitions are also listed down below:
 - FB_USER : Service scheme to avail services of Facebook and similar social networking sites
 - VBC : Volume based cost - when no specific scheme is not purchased and paid as per usage
 
-### Data files
+### Data files:
 
- Refer to #https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c-69/overview - for more details of the problem statement for
+ Refer to #https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c-69/overview - for more details of the problem statement and
   -   train.csv( 3month customer data, containing customer churn/not churned status in 4th month)
   -   test.csv(the customers for which churning proabability is to be predicted)
